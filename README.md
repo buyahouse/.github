@@ -1,0 +1,2 @@
+# .github
+Buy a house.
